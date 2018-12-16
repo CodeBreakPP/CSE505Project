@@ -3,6 +3,13 @@ To install Problog:
 pip install problog
 
 
+To train a bayesian network, use following line in terminal:
+
+problog lfi vote_program.pl vote_example.pl -O mylearnedprogramvote.pl
+
+
+
+
 
 
 
