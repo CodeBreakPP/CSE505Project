@@ -15,7 +15,7 @@ problog lfi vote_program.pl vote_example.pl -O mylearnedprogramvote.pl
 
 problog mylearnedprogramvote
 
-# To see the probability for each class, then to decide the prediction is correct or not, for example, about vote example, the probability for party(democrat) is 0.9 while party(republic) is 0.1, then prediciton is democrat.
+To see the probability for each class, then to decide the prediction is correct or not, for example, about vote example, the probability for party(democrat) is 0.9 while party(republic) is 0.1, then prediciton is democrat.
 
 
 
