@@ -23,6 +23,10 @@ problog mylearnedprogramvote
 ##Parse Tree Prediction
 
 
+#To install nltk
+
+Type that in terminal: sudo pip install -U nltk
+You may need other dependencies including numpy, to install Numpy (optional), run that in terminal: sudo pip install -U numpy
 
 
 
