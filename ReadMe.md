@@ -25,7 +25,9 @@ To see the probability for each class, then to decide the prediction is correct 
 
 ***To install nltk***
 
-Type that in terminal: sudo pip install -U nltk
+***Type that in terminal:***
+sudo pip install -U nltk
 
-You may need other dependencies including numpy, to install Numpy (optional), run that in terminal: sudo pip install -U numpy
+***You may need other dependencies including numpy, to install Numpy (optional), run that in terminal:*** 
+sudo pip install -U numpy
 
