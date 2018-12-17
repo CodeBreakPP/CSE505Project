@@ -1,3 +1,6 @@
+##Classification
+
+
 #To install Problog:
 
 pip install problog
@@ -15,6 +18,9 @@ problog mylearnedprogramvote
 #To see the probability for each class, then to decide the prediction is correct or not, for example, about vote example, the probability for party(democrat) is 0.9 while party(republic) is 0.1, then prediciton is democrat.
 
 
+
+
+##Parse Tree Prediction
 
 
 
